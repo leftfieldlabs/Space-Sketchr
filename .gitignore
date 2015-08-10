@@ -1,0 +1,10 @@
+Temp/*
+Library/*
+Build/*
+*.sln
+
+*.csproj
+
+*.sln
+
+*.unityproj
